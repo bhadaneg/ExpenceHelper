@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SIDE_MENU</key>
+	<array>
+		<dict>
+			<key>MENU_NAME</key>
+			<string>Home</string>
+			<key>MENU_IMAGE</key>
+			<string>menu_home.png</string>
+			<key>SHOW_FLAG</key>
+			<string>Y</string>
+			<key>TAG</key>
+			<string>1</string>
+		</dict>
+		<dict>
+			<key>MENU_NAME</key>
+			<string>Summary</string>
+			<key>MENU_IMAGE</key>
+			<string>menu_expence.png</string>
+			<key>SHOW_FLAG</key>
+			<string>Y</string>
+			<key>TAG</key>
+			<string>2</string>
+		</dict>
+		<dict>
+			<key>MENU_NAME</key>
+			<string>Account</string>
+			<key>MENU_IMAGE</key>
+			<string>menu_account.png</string>
+			<key>SHOW_FLAG</key>
+			<string>Y</string>
+			<key>TAG</key>
+			<string>3</string>
+		</dict>
+		<dict>
+			<key>MENU_NAME</key>
+			<string>Setting</string>
+			<key>MENU_IMAGE</key>
+			<string>menu_setting.png</string>
+			<key>SHOW_FLAG</key>
+			<string>Y</string>
+			<key>TAG</key>
+			<string>4</string>
+		</dict>
+		<dict>
+			<key>MENU_NAME</key>
+			<string>About us</string>
+			<key>MENU_IMAGE</key>
+			<string>menu_about.png</string>
+			<key>SHOW_FLAG</key>
+			<string>Y</string>
+			<key>TAG</key>
+			<string>5</string>
+		</dict>
+	</array>
+</dict>
+</plist>
